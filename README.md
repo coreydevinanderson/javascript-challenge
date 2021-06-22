@@ -1,7 +1,7 @@
 # javascript-challenge
 Repository for Georgia Tech Data Science and Analytics Bootcamp: javascript-challenge
 
-The respository contains JavaScript/D3.js code and associated HTML to filter Alien sightings between 1/01/2010 and 1/13/2010 in different cities in the United States.
+The respository contains JavaScript/D3.js code and associated HTML to filter Alien sightings between 1/1/2010 and 1/13/2010 in different cities in the United States.
 
 There are two options:
 
