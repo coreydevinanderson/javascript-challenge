@@ -14,17 +14,19 @@ The directory structure is as follows:
 
 javascript-challenge/
 
-UFO-level-1/index.html              # HTML file for website.
 
-UFO-level-1/static/css/style.css    # Additional CSS styling.
+UFO-level-1/index.html                  # HTML file for website.
 
-UFO-level-1/static/images/nasa.jpg  # Space wall paper for website.
+UFO-level-1/static/css/style.css        # Additional CSS styling.
 
-UFO-level-1/static/images/ufo.svg   # Flying saucer symbol for navbar.
+UFO-level-1/static/images/nasa.jpg      # Space wall paper for website.
 
-UFO-level-1/static/js/app.js        # D3.js code.
+UFO-level-1/static/images/ufo.svg       # Flying saucer symbol for navbar.
 
-UFO-level-1/static/js/data.js       # Javascript objects containing the sighting data.
+UFO-level-1/static/js/app.js            # D3.js code.
+
+UFO-level-1/static/js/data.js           # Javascript objects containing the sighting data.
+
 
 UFO-level-2/index.html
 
